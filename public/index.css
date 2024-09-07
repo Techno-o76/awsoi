@@ -1,0 +1,31 @@
+#carouselExampleIndicators {
+    margin: auto;
+    width: 40%;
+}
+
+#about-us-content{
+    padding: 10%;
+    margin: auto;
+}
+
+#empty-space{
+    width: 20%;
+    height: 20%;
+    padding: 2%;
+}
+
+#footer-logo{
+    padding: 2px 2px 10px 90px;
+    align-self: auto;
+}
+
+#footer{
+    border-radius: 20%;
+    padding: 4%;  
+}
+
+#event-cards {
+    margin: auto;
+    width: 20%;
+    height: 30%;
+}
